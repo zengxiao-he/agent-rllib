@@ -298,10 +298,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn]
-- **Twitter**: [@yourusername]
+- **Author**: Henry 
+- **Email**: zengxiao@stanford.edu
 
 ---
 
